@@ -1,0 +1,8 @@
+C:\Mukesh\SomePOC\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Mukesh\SomePOC\TestConsole\bin\Debug\TestConsole.exe
+C:\Mukesh\SomePOC\TestConsole\bin\Debug\TestConsole.pdb
+C:\Mukesh\SomePOC\TestConsole\bin\Debug\SomePOC.dll
+C:\Mukesh\SomePOC\TestConsole\bin\Debug\SomePOC.pdb
+C:\Mukesh\SomePOC\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Mukesh\SomePOC\TestConsole\obj\Debug\TestConsole.exe
+C:\Mukesh\SomePOC\TestConsole\obj\Debug\TestConsole.pdb

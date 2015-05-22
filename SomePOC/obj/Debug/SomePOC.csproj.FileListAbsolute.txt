@@ -1,0 +1,4 @@
+C:\Mukesh\SomePOC\SomePOC\bin\Debug\SomePOC.dll
+C:\Mukesh\SomePOC\SomePOC\bin\Debug\SomePOC.pdb
+C:\Mukesh\SomePOC\SomePOC\obj\Debug\SomePOC.dll
+C:\Mukesh\SomePOC\SomePOC\obj\Debug\SomePOC.pdb
