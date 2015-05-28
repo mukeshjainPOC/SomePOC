@@ -10,8 +10,8 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            string[] states = new string[5]          {            "Alabama","California","Florida",            "Louisiana","Texas"         };
-            string[] capitals = new string[5]         {            "Montgomery","Sacramento","Tallahassee",            "Baton Rouge","Austin"         };
+            string[] states = new string[5] {"Alabama","California","Florida","Louisiana","Texas"};
+            string[] capitals = new string[5]{"Montgomery","Sacramento","Tallahassee","Baton Rouge","Austin"};
             
             for (int i = 0; i < states.Length; i++)
             {

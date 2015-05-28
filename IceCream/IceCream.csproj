@@ -38,6 +38,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\packages\AjaxControlToolkit.15.1.2.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
@@ -167,6 +170,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="IceCream.aspx" />
+    <Content Include="IceCreamNew.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -359,6 +363,13 @@
     </Compile>
     <Compile Include="IceCream.aspx.designer.cs">
       <DependentUpon>IceCream.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IceCreamNew.aspx.cs">
+      <DependentUpon>IceCreamNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IceCreamNew.aspx.designer.cs">
+      <DependentUpon>IceCreamNew.aspx</DependentUpon>
     </Compile>
     <Compile Include="List.cs" />
     <Compile Include="Models\IdentityModels.cs" />

@@ -40,7 +40,7 @@
             </asp:TemplateField>
             <asp:TemplateField HeaderText="ITEM">
                 <ItemTemplate>
-                    <asp:DropDownList ID="ddl2" runat="server" ></asp:DropDownList>
+                    <asp:DropDownList ID="ddl2" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddl2_SelectedIndexChanged"></asp:DropDownList>
                  </ItemTemplate>
             </asp:TemplateField>
             <asp:TemplateField HeaderText="Quantity">
